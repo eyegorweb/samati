@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    formulaire samati
+    <h1>formulaire samati</h1>
   </div>
 </template>
 
